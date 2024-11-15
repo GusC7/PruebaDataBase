@@ -1,4 +1,4 @@
-package com.integrador.database.modelo;
+package com.integrador.database.model;
 
 import javax.persistence.*;
 
